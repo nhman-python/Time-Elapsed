@@ -11,7 +11,7 @@ Once Python is installed, navigate to the directory where the code is stored and
 ```
 python3 date_calculator.py
 ```
-or
+cmd windows
 ```
 python date_calculator.py
 ```
